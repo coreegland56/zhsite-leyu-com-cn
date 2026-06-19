@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coreegland56.github.io/zhsite-leyu-com-cn/sitemap.xml
